@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EquipmentHalt.cs" />
     <Compile Include="EquipmentRunIndicators.cs" />
     <Compile Include="MaterialWeightResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
